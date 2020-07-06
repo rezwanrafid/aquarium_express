@@ -1,0 +1,31 @@
+.violet-bg{
+    background-color: #0a1c32
+}
+.white-color{
+    color: whitesmoke;
+}
+.lightindigo-bg{
+    background-color: #deeaee;
+}
+.black-color{
+    color: black;
+}
+.white-bg{
+    background-color: white;
+}
+
+
+.carousel-item{
+    padding-left: 20px;
+}
+.price{
+    color: rgb(236, 39, 65)
+}
+.buy-now-button{
+    background-image: linear-gradient(90deg, rgb(212, 138, 179), rgb(236, 39, 65));
+    color: #FFF;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
